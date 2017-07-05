@@ -1,4 +1,6 @@
 
+generated-docs/
+
 ### VisualStudioCode ###
 .vscode/*
 !.vscode/settings.json

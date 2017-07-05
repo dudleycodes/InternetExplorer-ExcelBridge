@@ -6,6 +6,15 @@
 
 Provides a real-time link between Internet Explorer and Microsoft Excel via ActiveX.
 
+# Documentation
+
+To generate documentation:
+
+```
+npm install .
+npm run build-docs
+```
+
 # Requirements
 * Internet Explorer 8 or higher (ECMAScript 3rd Edition equivalent)
 * Microsoft Office 2007 or higher
