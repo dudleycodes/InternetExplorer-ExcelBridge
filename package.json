@@ -1,0 +1,28 @@
+{
+  "name": "internetexplorer-excelbridge",
+  "version": "1.0.0",
+  "description": "Provides a real-time link between Internet Explorer and Microsoft Excel via ActiveX.",
+  "author": "James Dudley <James@Dudley.codes>",
+  "main": "ExcelBridge.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jsdoc": "^3.4.3"
+  },
+  "scripts": {
+    "build-docs": "./node_modules/.bin/jsdoc ./ExcelBridge.js --destination ./generated-docs/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dudleycodes/InternetExplorer-ExcelBridge.git"
+  },
+  "keywords": [
+    "ActiveX",
+    "Excel",
+    "Internet-Explorer"
+  ],
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/dudleycodes/InternetExplorer-ExcelBridge/issues"
+  },
+  "private": true
+}
